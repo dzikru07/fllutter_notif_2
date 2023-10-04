@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "46154665141",
+    "project_id": "malee-7ccf2",
+    "storage_bucket": "malee-7ccf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46154665141:android:3169cab2800789679982fc",
+        "android_client_info": {
+          "package_name": "com.example.fllutter_notif_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46154665141-e60g8jlhpcij1accqrmcfevrp4p6puln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbGrL3XEkY1GMoqdM1Q-hyVWasoYKkAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46154665141-e60g8jlhpcij1accqrmcfevrp4p6puln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46154665141:android:6c515f94977a2ca19982fc",
+        "android_client_info": {
+          "package_name": "com.example.mandiri_lapak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46154665141-e60g8jlhpcij1accqrmcfevrp4p6puln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbGrL3XEkY1GMoqdM1Q-hyVWasoYKkAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46154665141-e60g8jlhpcij1accqrmcfevrp4p6puln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
